@@ -1,7 +1,8 @@
+![WordPress Web Developer / Timber Framework / Laravel Framework](https://media.licdn.com/dms/image/D4D16AQHaI67z3yEF8w/profile-displaybackgroundimage-shrink_350_1400/0/1666774180697?e=1682553600&v=beta&t=CVW1sumLAIggnnI83ZwDaCIt-wpLmtiYJNRUbt_M-74)
+
 ### Hi there 👋, Rajan Gupta
 
 #### WordPress Web Developer / Timber Framework / Laravel Framework
-![WordPress Web Developer / Timber Framework / Laravel Framework](https://media.licdn.com/dms/image/D4D16AQHaI67z3yEF8w/profile-displaybackgroundimage-shrink_350_1400/0/1666774180697?e=1682553600&v=beta&t=CVW1sumLAIggnnI83ZwDaCIt-wpLmtiYJNRUbt_M-74)
 
 I'm Rajan Gupta and I am a WordPress Web Developer / PHP Developer from India with over 6 Years of experience building and customizing websites, specifically with the Laravel and Tember Framework.
 
