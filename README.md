@@ -21,7 +21,6 @@ I'm Rajan Gupta and I am a WordPress Web Developer / PHP Developer from India wi
 * https://foranequine.com/
 * https://www.toshibabusinessmea.com/
 
-<img src='https://www.kapwing.com/videos/63f4305cea43c500253cb752' alt='github' width="400" height=''>
 
 - 🔭 I’m currently working on WordPress Headless 
 - 🌱 I’m currently learning React, golang, Python 
