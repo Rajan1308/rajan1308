@@ -1,4 +1,4 @@
-![WordPress Web Developer / Timber Framework / Laravel Framework](https://media.licdn.com/dms/image/D4D16AQHaI67z3yEF8w/profile-displaybackgroundimage-shrink_350_1400/0/1666774180697?e=1682553600&v=beta&t=CVW1sumLAIggnnI83ZwDaCIt-wpLmtiYJNRUbt_M-74)
+![WordPress Web Developer / Timber Framework / Laravel Framework](https://media.licdn.com/dms/image/D4D16AQHRXFM3Lhz8tw/profile-displaybackgroundimage-shrink_350_1400/0/1678003475443?e=1683763200&v=beta&t=M9U7TPF5yNHxgJWPuWS18uDlwgT7ZtJd7JKnrP0ch9g)
 
 ### Hi there 👋, Rajan Gupta
 
