@@ -1,4 +1,4 @@
-![WordPress Web Developer / Timber Framework / Laravel Framework]([https://drive.google.com/file/d/19U5ggkJkc-ptiv7sVVv-m8tyQ2V-a4nZ/view?usp=share_link]))
+![WordPress Web Developer / Timber Framework / Laravel Framework]([https://drive.google.com/file/d/19U5ggkJkc-ptiv7sVVv-m8tyQ2V-a4nZ/view]))
 
 ### Hi there 👋, Rajan Gupta
 
