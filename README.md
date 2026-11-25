@@ -1,10 +1,10 @@
-<img src='https://rajanwebdev.com/wp-content/uploads/2023/08/1678003475443.jpeg' alt='github'> 
+<img src='https://scontent.flko7-5.fna.fbcdn.net/v/t39.30808-6/915633796_122126930187367742_8344039856273249958_n.png?stp=dst-png&cstp=mx1640x624&ctp=s1640x624&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=i_f7q_rMCDoQ7kNvwEC-R1O&_nc_oc=AdoSG7saOLftL7x-Hh-XcQHnWQLueqytv-jmapTzXrnGpDAovC2tJ8oercD4qzGI0dxN53HLlCAHneknMlrl_pwU&_nc_zt=23&_nc_ht=scontent.flko7-5.fna&_nc_gid=WfXdj_u3fIy9di3C37FCRw&_nc_ss=7b3a8&' alt='github'> 
 
 ### Hi there 👋, Rajan Gupta
 
 #### WordPress Web Developer / Timber Framework / Laravel Framework
 
-I'm Rajan Gupta and I am a WordPress Web Developer / PHP Developer from India with over 6 Years of experience building and customizing websites, specifically with the Laravel and Tember Framework.
+I'm Rajan Gupta and I am a WordPress Web Developer / PHP Developer from India with over 9+ Years of experience building and customizing websites, specifically with the Laravel and Tember Framework.
 
 ## Skills and Experience
 * ⚛ React
